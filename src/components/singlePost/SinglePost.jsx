@@ -17,10 +17,13 @@ export default function SinglePost() {
           </div>
         </h1>
         <div className="singlePostInfo">
-          <span className='singlePostAuthor'>
-            Author: <b>John</b>
+          <span>
+            
+            <b className="singlePostAuthor">
+             
+            </b>
           </span>
-          <span className='singlePostDate'>1 hour ago</span>
+          <span className='singlePostDate'></span>
           <p className='singlePostDesc'>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste error
           quibusdam ipsa quis quidem doloribus eos, dolore ea iusto impedit!
